@@ -37,7 +37,7 @@ export const skillList = [
     },
      {
         skillName: 'MATLAB',
-        skillUrl: 'https://i.ibb.co/2YmGvnL/matlab.jpg',
+        skillUrl: 'https://i.ibb.co/sstM3kc/matlab.jpg',
     },
     {
         skillName: 'Firebase',
