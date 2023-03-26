@@ -3,6 +3,7 @@ import { HashRouter, Route } from 'react-router-dom';
 import Home from './../Home/Home';
 import About from './../About/About';
 import Projects from './../Projects/Projects';
+import OpenSource from './../OpenSource/OpenSource';
 import Skills from './../Skills/Skills';
 import Contact from './../Contact/Contact';
 import CP from './../CP/CP';
@@ -23,6 +24,7 @@ const App = () => {
                     <Route path='/skills' exact component={Skills} />
                     <Route path='/contact' exact component={Contact} />
                     <Route path='/CP' exact component={CP} />
+                    <Route path='/OpenSource' eaxct component={OpenSource}></Route>
                     <GoHome />
                 </div>
             </HashRouter>

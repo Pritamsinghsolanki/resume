@@ -18,6 +18,8 @@ class NavBar extends React.Component {
             location.pathname === '/contact' ? 'active-item' : '';
         const cpClass =
             location.pathname === '/cp' ? 'active-item' : '';
+        const opensourceClass =
+            location.pathname === '/opensource' ? 'active-item' : '';
         return (
             <Menu>
                 {/* We NEVER want to use <a> inside our react router application */}
@@ -39,6 +41,11 @@ class NavBar extends React.Component {
                 <Link to='/skills' className={`menu-item ${skillsClass}`}>
                     Skills
                 </Link>
+            
+                <Link to='/opensource' className={`menu-item ${opensourceClass}`}>
+                    OpenSource
+                </Link>
+
                 <Link to='/contact' className={`menu-item ${contactClass}`}>
                     Contact
                 </Link>
