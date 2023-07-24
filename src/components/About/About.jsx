@@ -18,14 +18,15 @@ const About = () => {
                     {/* Sub section 1 */}
                     <h3 className='about-sub-head'>QUALIFICATION</h3>
                     <p className='about-details'>
-                        I am a 4th year undergrad at NSUT (formely NSIT)
-                        from instrumentation and control Branch .
+                        I am a passout from NSUT (formely NSIT)
+                        from instrumentation and control Branch(ICE) with expertise in Computer Science also .
                     </p>
 
                     {/* Sub section 2 */}
                     <h3 className='about-sub-head'>EXPERIENCE</h3>
                     <p className='about-details'>
-                        I have been programming from more than one and a half year.
+                        I am currently working as a Software Enginner and also
+                        has an Experience of working as a Teaching Assistant .
                         {/* <a
                             className='about-link-element'
                             href='https://madhavbahl.medium.com/'
@@ -35,11 +36,21 @@ const About = () => {
                     </p>
 
                     {/* Sub section 3 */}
-                    <h3 className='about-sub-head'>HOBBIES</h3>
+                    <h3 className='about-sub-head'>SUBJECTS</h3>
                     <p className='about-details'>
-                        In my spare time ,I love to play cricket and watching
-                        youtube videos.
-                        ❤ With time I found coding as one of my hobby.
+
+                        <h4>Computer Programming.</h4>
+
+                        <h4>Data Base Management System</h4>
+
+                        <h4>Data Structures & Algorithms</h4>
+
+                        <h4>Design and Analysis of Algorithms</h4>
+
+                        <h4>Intelligent Autonomous Systems</h4>
+
+                        <h4>Operating Systems</h4>
+
                         {/* className='about-link-element'
                             href='mailto:info@theleanprogrammer.com'
                         >

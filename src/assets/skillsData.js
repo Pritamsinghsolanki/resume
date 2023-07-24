@@ -35,7 +35,7 @@ export const skillList = [
         skillName: 'AndroidStudio',
         skillUrl: 'https://i.ibb.co/PhGXjnz/android1.png',
     },
-     {
+    {
         skillName: 'MATLAB',
         skillUrl: 'https://i.ibb.co/sstM3kc/matlab.jpg',
     },
@@ -44,7 +44,7 @@ export const skillList = [
         skillUrl: 'https://i.ibb.co/hVbTyqh/fire.png',
     },
     {
-        skillName: 'Blockchain',
-        skillUrl: 'https://i.ibb.co/NrVY5hq/blockchain.jpg',
+        skillName: 'Java Spring Boot',
+        skillUrl: 'https://i.ibb.co/r4CJXbT/spring-boot-logo.png',
     },
 ];

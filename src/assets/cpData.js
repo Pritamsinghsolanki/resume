@@ -2,7 +2,7 @@
 export const CPData = [
     {
         PlatformName: 'LeetCode',
-        Ratings: '3.5✨Star(700+)',
+        Ratings: '3.5✨Star(950+ Questions)',
         profileUrl: 'https://leetcode.com/PritamSinghSolanki/',
         imageUrl: 'https://i.ibb.co/6Dr98mB/ltcode.png',
     },
@@ -20,13 +20,13 @@ export const CPData = [
     },
     {
         PlatformName: 'GeeksforGeeks',
-        Ratings: '212🐱‍👓',
+        Ratings: '300+ Questions🐱‍👓',
         profileUrl: 'https://auth.geeksforgeeks.org/user/pritamsinghsolanki2000/profile',
         imageUrl: 'https://i.ibb.co/DRk6tQR/gfg.png',
     },
-     {
+    {
         PlatformName: 'Interviewbit',
-         Ratings: '100+🐱‍👓',
+        Ratings: '100+ Questions🐱‍👓',
         profileUrl: 'https://www.interviewbit.com/profile/pritam_2111',
         imageUrl: 'https://www.linkpicture.com/q/inter.png',
     },

@@ -8,7 +8,7 @@ export const OpenData = [
 
     //     projectUrl: '',
     // },
-     {
+    {
         projectName: 'CollegeSpace',
         projectDescription:
             'CollegeSpace, the Socio-Academic Portal of NSUT, is the most frequently visited website of NSUT. We aim to make the life of every NSUTian simpler & turn these four years into a smoother ride!',
@@ -16,7 +16,7 @@ export const OpenData = [
 
         projectUrl: '',
     },
-     {
+    {
         projectName: 'Girl Script Winter Of Coding',
         projectDescription:
             'GirlScript is a non-profit organization that encourages diversity in technical education by providing reservations for women and underrepresented groups in society.It started as a project but eventually gained enormous momentum to become India First and Biggest Technical Community.',
@@ -24,13 +24,13 @@ export const OpenData = [
 
         projectUrl: '',
     },
-     {
+    {
         projectName: 'Techncrats',
         projectDescription:
             'College Society',
-        imageUrl: 'https://i.ibb.co/W30dHVz/Technocrats.png',
+        imageUrl: 'https://i.ibb.co/khXg5sL/79038016.png',
 
         projectUrl: '',
     }
-    
+
 ];
